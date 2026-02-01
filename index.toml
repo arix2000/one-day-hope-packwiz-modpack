@@ -679,8 +679,3 @@ hash = "6087e97d65d1ea2b725298e602971f1d2a4fb96bb94ad825cdfe02c3368beee9"
 [[files]]
 file = "shaderpacks/PotatoShaders_v1.0d.zip"
 hash = "55aa21562dbc2860fd466719908437a8bc22ad358a673fb3c119e4bcdf1616af"
-
-[[files]]
-file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "e9a58988a0caedc1acdf008e8aea55d29eecabf675df5915e889781c3343f40d"
-metafile = true
