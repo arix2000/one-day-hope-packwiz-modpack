@@ -1,0 +1,16 @@
+filename = 'DiagonalWalls-v21.10.0+mc1.21.10-Fabric.jar'
+name = 'Diagonal Walls'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ad9840ffae82d598ad66ff50ae54a38b34396028938734bb5e18fcd967c74b41f4cf2f07fb74dcf36bf5bf80218210f5a57603929f239eaac90c150f4adfcfd5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FQgc8dib/versions/9DjXc6Ql/DiagonalWalls-v21.10.0%2Bmc1.21.10-Fabric.jar'
+
+[update.modrinth]
+mod-id = 'FQgc8dib'
+version = '9DjXc6Ql'

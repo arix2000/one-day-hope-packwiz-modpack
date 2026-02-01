@@ -1,0 +1,16 @@
+filename = 'FarmersDelight-1.21.10-3.4.2+refabricated.jar'
+name = "Farmer's Delight Refabricated"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e1653c607a7ecc14cb3ab8d4f02eccdee694634f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7314442
+project-id = 993166

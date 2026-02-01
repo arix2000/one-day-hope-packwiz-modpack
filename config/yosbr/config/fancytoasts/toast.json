@@ -1,0 +1,10 @@
+{
+  "textureId": "fancytoasts:textures/toast/nature.png",
+  "animationId": "fancytoasts:animations/toast/standard",
+  "soundIds": {
+    "TASK": "minecraft:ui.toast.challenge_complete",
+    "GOAL": "minecraft:ui.toast.challenge_complete",
+    "CHALLENGE": "minecraft:ui.toast.challenge_complete"
+  },
+  "version": 1
+}

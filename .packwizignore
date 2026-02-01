@@ -1,0 +1,57 @@
+
+
+
+# --- User Data (NEVER DELETE) ---
+options.txt
+servers.dat
+servers.dat_old
+usercache.json
+command_history.txt
+realms_persistence.json
+
+# --- Folders that hold User Content ---
+saves/
+screenshots/
+schematics/
+downloads/
+server-resource-packs/
+logs/
+crash-reports/
+
+# --- Mod Data (Maps & Waypoints) ---
+# Critical: If you don't ignore these, friends lose their explored map!
+journeymap/
+waypoints/
+local/
+
+# --- Mod Caches & Temp Files ---
+# "Polymer" generates resource packs on the fly, don't sync this folder
+polymer/
+# "FrozenLib" and "Data" usually hold runtime data, safe to ignore
+frozenlib/
+data/
+defaultconfigs/
+
+# --- Resource Packs ---
+# Ignore this so friends can use their own Texture Packs (Xray, PvP packs etc)
+# without the updater deleting them.
+resourcepacks/
+texturepacks/
+
+# --- Configs to KEEP LOCAL (Do not force update) ---
+# Voice Chat: Ignore this so you don't overwrite their Microphone/Volume settings
+config/voicechat-client.properties
+
+# Video Settings: Ignore these so you don't reset their render distance/graphics
+config/sodium-options.json
+config/sodium-mixins.properties
+config/iris.properties
+optionsshaders.txt
+shaderpacks/*.txt
+shaderpacks/*.json
+shaderpacks/*.properties
+
+# --- Other specific files ---
+icon.png
+.DS_Store
+

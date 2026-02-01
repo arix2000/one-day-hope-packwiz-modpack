@@ -1,0 +1,17 @@
+filename = 'ReShaded [v.1.4] 1.21.6-1.21.10 .zip'
+name = 'ReShaded'
+side = ''
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.21.10', '1.21.10', '1.21.6', '1.21.6', '1.21.7', '1.21.7', '1.21.8', '1.21.8', '1.21.9', '1.21.9' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4'
+
+[download]
+hash = 'a314c4a73edf13d3fc58f440d43af7b0e73648820473bd43a2d21a6e260a5bbb6aa4d5f53c598e60937ed1035e0a0ae0fb329c19e1313b9020020a3ec6e7503e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Gdq9dXUk/versions/n2VnL481/ReShaded %5Bv.1.4%5D 1.21.6-1.21.10 .zip'
+
+[update.modrinth]
+mod-id = 'Gdq9dXUk'
+version = 'n2VnL481'
