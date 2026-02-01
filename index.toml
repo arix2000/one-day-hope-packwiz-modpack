@@ -73,10 +73,6 @@ file = "config/yosbr/config/fabric_loader_dependencies.json"
 hash = "057cc80d73d0266e71bcc1d4471cba1d034a2d30f1aecca0bb2da050003f3483"
 
 [[files]]
-file = "config/yosbr/config/fabrishot.properties"
-hash = "f5ff731194f66727bfeb75a28a70104fc4687cbc84b69e60c94fe1b7d901f453"
-
-[[files]]
 file = "config/yosbr/config/fancytoasts/general.json"
 hash = "e5d1da2dcb97bbbb9b3989f4328992af74d566d5405abb9af06ab5353694940c"
 
@@ -315,10 +311,6 @@ hash = "014a8f875a4d7eeece42ede55463d8bd4ca8b1d4c82da91b876ae37690530ff5"
 [[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
-
-[[files]]
-file = "config/yosbr/config/rrls.toml"
-hash = "3630be880dc7f037238b7e6347201d4f716ffc7e16db0a1498ef2f775cf8f5be"
 
 [[files]]
 file = "config/yosbr/config/simple_copper_pipes.json5"
