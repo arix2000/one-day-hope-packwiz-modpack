@@ -1,0 +1,9 @@
+# Force all files to use Linux (LF) line endings to match Packwiz's calculation
+* text=auto eol=lf
+
+# Treat specific binary files as binary (no text conversion)
+*.jar binary
+*.zip binary
+*.png binary
+*.nbt binary
+*.dat binary
