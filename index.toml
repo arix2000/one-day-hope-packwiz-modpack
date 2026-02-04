@@ -481,10 +481,6 @@ file = "mods/cloth-config-20.0.149-fabric.jar"
 hash = "066a447e3423a182dac8c4b25a693c726308a3d3cb3df316d5588099b4751787"
 
 [[files]]
-file = "mods/cullleaves-fabric-4.1.1+1.21.10.jar"
-hash = "e34aab027ce4a791b7f009a219a97d07ed0ed6a4227bc17fdf1602f07ebfa88e"
-
-[[files]]
 file = "mods/dynamic-fps-3.11.0+minecraft-1.21.9-fabric.jar"
 hash = "3caec24f4d31f71ebc8fb4ea55a2fb79ba800178adf599f9db459045341fff6c"
 
@@ -579,10 +575,6 @@ hash = "de333c2511dfe7dab103b8fa3c9f70ee2450257b004d396006d3afb22ef71e4c"
 [[files]]
 file = "mods/mcw-trapdoors-1.1.5-mc1.21.10fabric.jar"
 hash = "a8a83c3e8e0b3ce14b47300cf9530dea846ef3129a99286b666d859b5aad90ce"
-
-[[files]]
-file = "mods/midnightlib-fabric-1.9.2+1.21.10.jar"
-hash = "4148345e0c94159f2e8bb2f7f535c4a5d508b0991e146d546abc36b0634b9e98"
 
 [[files]]
 file = "mods/mixintrace-1.1.1+1.17.jar"
