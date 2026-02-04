@@ -653,12 +653,12 @@ file = "mods/yosbr-0.1.2.jar"
 hash = "db4c744fd71f5617639cb0fdff72378b08d2852004f4045c62090de1bf53afcb"
 
 [[files]]
-file = "resourcepacks/Chat Reporting Helper.zip"
-hash = "112ddc8cc127fab7799ff69d6ab8b21765b8f57b0ad64f602687a2e7e8972983"
+file = "resourcepacks/Better-Leaves-9.5.zip"
+hash = "5480640cb2f7674da4f2897ebc48b29a436706614160f4d4d8ad0ead5150fea6"
 
 [[files]]
-file = "resourcepacks/Fast Better Grass.zip.disabled"
-hash = "f67931f161325b3f41a0493fc639fb54ecd8003b39aa110e2b3e24d18c03300d"
+file = "resourcepacks/Chat Reporting Helper.zip"
+hash = "112ddc8cc127fab7799ff69d6ab8b21765b8f57b0ad64f602687a2e7e8972983"
 
 [[files]]
 file = "resourcepacks/LowOnFire v1.21.9§8.zip"
@@ -667,10 +667,6 @@ hash = "35dcebe6b6513999ddc16dc8cb2d4c37df7cf2fd5e3210a536e1bec56eac4657"
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
 hash = "94edc739b69dd5caeb6581e60feb922ea30edf4f5b9a9bf0bb6c13c47a4c6707"
-
-[[files]]
-file = "resourcepacks/ReShaded [v.1.4] 1.21.6-1.21.10 .zip"
-hash = "74f1bf7d7839e119dacabebc3027fb95cc6a6e436a7cb2a2a54ce09c1551d7d3"
 
 [[files]]
 file = "resourcepacks/SodiumTranslations.zip"
