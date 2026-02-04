@@ -35,7 +35,6 @@ defaultconfigs/
 # --- Resource Packs ---
 # Ignore this so friends can use their own Texture Packs (Xray, PvP packs etc)
 # without the updater deleting them.
-resourcepacks/
 texturepacks/
 
 # --- Configs to KEEP LOCAL (Do not force update) ---
