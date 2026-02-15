@@ -481,6 +481,10 @@ file = "mods/cloth-config-20.0.149-fabric.jar"
 hash = "066a447e3423a182dac8c4b25a693c726308a3d3cb3df316d5588099b4751787"
 
 [[files]]
+file = "mods/continuity-3.0.1-beta.2+1.21.10.jar"
+hash = "ee55eb87723f53909d218e122723c12fe4155c82e4b0b9839fde1eab5abdbff2"
+
+[[files]]
 file = "mods/dynamic-fps-3.11.0+minecraft-1.21.9-fabric.jar"
 hash = "3caec24f4d31f71ebc8fb4ea55a2fb79ba800178adf599f9db459045341fff6c"
 
