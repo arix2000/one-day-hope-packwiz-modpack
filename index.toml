@@ -437,6 +437,10 @@ file = "mods/Jade-1.21.9-Fabric-20.1.0.jar"
 hash = "6fd675ad2bbc49db07c2611a4b48b38b020ef453bc0421b3e530f7a2c0c6d1a6"
 
 [[files]]
+file = "mods/MouseTweaks-fabric-mc1.21.9-2.29.jar"
+hash = "96c59186e1678342432ff5515b3034a4fc723982f6aaf5e4554c09de0b7ef626"
+
+[[files]]
 file = "mods/NaturesCompass-1.21.10-2.2.9-fabric.jar"
 hash = "3166090e45f5641789cee6541cf4e30e95adf4f0de759c4fc90ce165b94e5dc7"
 
