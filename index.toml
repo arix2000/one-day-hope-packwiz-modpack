@@ -477,6 +477,10 @@ file = "mods/bettermounthud-1.2.6.jar"
 hash = "98a625d51db9ee1d2548bef0fc28540e991034654da14ceb2b541da4fc695402"
 
 [[files]]
+file = "mods/c2me-fabric-mc1.21.10-0.3.6+alpha.0.9.jar"
+hash = "08aca39691532d8ddaffecd658589e09cd1a416f6c7547a4b4f512661403b05a"
+
+[[files]]
 file = "mods/capes-1.5.9+1.21.9-fabric.jar"
 hash = "8865f9e80dfaa4ddcb2874d16ab6862201a97bb0a806abc8fb7cac46d2eb7d79"
 
@@ -589,6 +593,10 @@ file = "mods/mixintrace-1.1.1+1.17.jar"
 hash = "26ca21a27706cfa4561868f31c4fd07c542e8cc759419f5884ddff1f3a126a99"
 
 [[files]]
+file = "mods/modernfix-fabric-latest.jar"
+hash = "251420201038cdec5828a8a737256ca8c31e55273b108576d8d193f382d20da9"
+
+[[files]]
 file = "mods/modmenu-16.0.0-rc.1.jar"
 hash = "cb64bd9f49186e80477e8d59d3a77c88cc66a4c67bdf3a5fe70db18d25d562e3"
 
@@ -599,6 +607,10 @@ hash = "f6032e46826b63e18c8848a3053e32652fc5298892a216a53dce66598925fc6c"
 [[files]]
 file = "mods/moreculling-fabric-1.21.9-1.5.0-beta.2.jar"
 hash = "130fce0591ecc05df50456748d8af2fc5b7aab3fa492867990d1bf602d11dcb4"
+
+[[files]]
+file = "mods/noisium-fabric-2.8.1+mc1.21.10.jar"
+hash = "0a84d2c9578bee1eb782e33db5ccc20d7274e02570b513b85cf26e82d3729ed7"
 
 [[files]]
 file = "mods/optigui-2.3.0-beta.9+1.21.9.jar"
