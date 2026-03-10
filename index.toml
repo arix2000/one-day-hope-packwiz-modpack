@@ -393,6 +393,10 @@ file = "mods/BetterF3-16.0.3-Fabric-1.21.10.jar"
 hash = "bb8b387addf88bbee96b9de81ed5c57c498225896d8ed2e3b892c1565de91a5d"
 
 [[files]]
+file = "mods/Camerapture-1.10.8+mc1.21.9-fabric.jar"
+hash = "f589cce7c2dd2bbbfac16545b939e995c861b1e5b23f5759d8c785ab106b2f01"
+
+[[files]]
 file = "mods/Controlling-fabric-1.21.10-28.0.2.jar"
 hash = "b18da5b065ac1a5c133eef9ad186c7219fa4c6b4d5cac1a3b04a1b2dff3cc27b"
 
