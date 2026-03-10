@@ -317,18 +317,6 @@ file = "config/yosbr/config/resource_backpacks/client/appearance.json"
 hash = "d84da481df2919de1b1d616264234aca218e4b809ec6c28d9c9a19802c15d42a"
 
 [[files]]
-file = "config/yosbr/config/resource_backpacks/common/backpacks.json"
-hash = "8ff1a04dd86ed8e9eb621871e0d711b52fbadf15724b4857bb733261defa2fc4"
-
-[[files]]
-file = "config/yosbr/config/resource_backpacks/common/chest_loot.json"
-hash = "1fd3a87b69e24ff2397e81d81ad95fa7d4fa675b355d9cf81c3364cf7fdb4ce7"
-
-[[files]]
-file = "config/yosbr/config/resource_backpacks/common/entity_config.json"
-hash = "b0909893a6fcdb4a8549770ff8f8b11bf7f4bd474f353a01a8df3a384c9222f8"
-
-[[files]]
 file = "config/yosbr/config/simple_copper_pipes.json5"
 hash = "d9c4c3095334e9e9ba9d018cddbdc37842b8f93ed18a66b468bc53a778069252"
 
@@ -654,7 +642,7 @@ hash = "6b29c8bead245523959d1c1235e956de97a59becead28ed5a7c2a5a53b089366"
 
 [[files]]
 file = "mods/resource_backpacks-fabric-1.21.10-1.3.0.jar"
-hash = "587eb7032a4f3ee896babae67e0fd295d0d668c3beeabb26c84c040f74ce3e7d"
+hash = "3168166b582049a439749d232f5555125420c149bf126f275725a4aadc985891"
 
 [[files]]
 file = "mods/resourceconfigapi-fabric-1.21.10-3.8.1.jar"
