@@ -685,6 +685,10 @@ file = "mods/stack-to-nearby-chests-mc1.21.10-0.5.14.jar"
 hash = "ef41ae78b6352c80782a9e544007ea252b58e7d0984c6c7ba85c4ecf1a084257"
 
 [[files]]
+file = "mods/toms_storage_fabric-1.21.10-2.7.0.jar"
+hash = "8ab6943849205334e46b4ba77fc43a4152580fa0a7931172101be9101681ed98"
+
+[[files]]
 file = "mods/voicechat-fabric-1.21.10-2.6.7.jar"
 hash = "b374de2d65e5a14798df073c17d0cfebda683a69a285be42d500982394c4aa2d"
 
