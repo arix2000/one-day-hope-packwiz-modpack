@@ -1,13 +1,13 @@
 name = "One day hope"
 author = "Arix"
-version = "1.0.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5c3a84240d1d865d70951833d2eabce22b2a2cf764c912a588a8596389a4c484"
+hash = "11bf9d7e9b1f4920609114c5d4be91103d83504c3e038be7cd5309cce579ed08"
 
 [versions]
-fabric = "0.18.2"
-minecraft = "1.21.10"
+fabric = "0.19.2"
+minecraft = "26.1.2"
