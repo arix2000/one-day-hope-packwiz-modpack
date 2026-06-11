@@ -437,6 +437,10 @@ file = "mods/ExplorersCompass-26.1-2.5.1-fabric.jar"
 hash = "a4afca475e0001beb6ad2398b0715fec618edd917170f507c32f14166739cce8"
 
 [[files]]
+file = "mods/ExtendedDrawers-5.0.0+mc.26.1.jar"
+hash = "2d07e56154ebaae6cff62127f8063c28e677bcdcb3ac7fbae10c6413146adab8"
+
+[[files]]
 file = "mods/FarmersDelight-26.1-3.6.5+refabricated.jar"
 hash = "ba5ed4500ee447ce85dac9578516d13ee510cd55118effb3493404ba87bc5a71"
 
@@ -487,6 +491,10 @@ hash = "2fa2a8639709a18add2ef5938dd0f1b5e2869a0e628fbfe322c0c192e108b647"
 [[files]]
 file = "mods/SimpleCopperPipes-mc26.1-2.1.6.jar"
 hash = "b5d913c9f1aa52c1b5d8237898e60096aa1aeb404770af77b38f0bafcc7ec503"
+
+[[files]]
+file = "mods/TheCopperierAge-1.1.3-mc26.1.jar"
+hash = "bba7dd39751fac002cbfe08c233f051da3e850fbc6949374e42e1524aad13a84"
 
 [[files]]
 file = "mods/animatica-0.6.2+26.1.jar"
@@ -583,6 +591,26 @@ hash = "f6ad99106b1c099d24b027f3e240c259af05019ae42548a66db0de2b6fa4f68d"
 [[files]]
 file = "mods/ferritecore-9.0.0-fabric.jar"
 hash = "213966c72ed967acc7392beb28a866fba301ff56b9976c2e7801c2db7de6bf22"
+
+[[files]]
+file = "mods/ftb-filter-system-fabric-26.1.2.1.jar"
+hash = "0c8563fdfaa2609539d1d10a78c330be276c26405a5b5f81ca4fc4643fd422e9"
+
+[[files]]
+file = "mods/ftb-library-fabric-26.1.2.6.jar"
+hash = "ce2b0d2e65cf89c0394d6e379f002cba9bd75b7298fd7c7ca6aeaecba79a5e85"
+
+[[files]]
+file = "mods/ftb-quests-fabric-26.1.2.1-20260608.140617-6.jar"
+hash = "1bd76b98aca9e514f975f4080f619a09dfebae166dc4a27180ae049ae101ec38"
+
+[[files]]
+file = "mods/ftb-teams-fabric-26.1.2.4.jar"
+hash = "4e3f4a0c11eec92c891972a344ae0e28a743b8c98e58a466b3ce4ba87f4e88f3"
+
+[[files]]
+file = "mods/ftb-xmod-compat-fabric-26.1.2.1_VERSION_UPDATED.jar"
+hash = "21b731ef0409cf98a424a98a6e310f87086719954e7241c8d3585a393027e582"
 
 [[files]]
 file = "mods/geckolib-fabric-26.1.2-5.5.1.jar"
